@@ -1,4 +1,5 @@
 name=[]
+name.append('Dan')
 name.append('Phillips')
 name.append('Michael')
 for i in name:
